@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working  as a General Assembly Code Fellow.<br>🌱 I’m currently learning Rest, JavaScript, HTML, and CSS.<br>💬 Ask me about my journey to becoming a full-stack engineer!<br>⚡ Fun fact: I love sewing and anime!
+🔭 I’m currently working on Front End JavaScript Frameworks and Advanced JS <br>🌱 I’m currently learning React, React Router, Component Libraries<br>⚡ Fun fact: I love sewing and anime! <br> USAF Veteran and Valdosta State University alumni.
 
 
 ## 🌐 Socials:
