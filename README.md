@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on Front End JavaScript Frameworks and Advanced JS <br>🌱 I’m currently learning React, React Router, Component Libraries<br>⚡ Fun fact: I love sewing and anime! <br> USAF Veteran and Valdosta State University alumni.
+🔭 I’m currently working on Front End JavaScript Frameworks and Advanced JS <br>🌱 I’m currently learning React, React Router, Component Libraries<br>⚡ Fun fact: I love sewing and anime! <br> USAF Veteran and Valdosta State University alumni
 
 
 ## 🌐 Socials:
